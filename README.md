@@ -1,0 +1,2 @@
+# CurrencyConverter
+# CurrencyCalculatorApp - The currency converter application - basic idea behind convert number from one currency type to another by parsing XML file from live website. The XML file contains curency code and currency rate in terms of EURO. By parsing the XML file and convert this relation into MAP&lt;currency_code,rate> such that we can easily apply the conversion as per users input.
